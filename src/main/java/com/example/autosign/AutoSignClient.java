@@ -1,4 +1,4 @@
-package com.ataberkcelil.autosign;
+package com.example.autosign;
 
 import net.fabricmc.api.ClientModInitializer;
 

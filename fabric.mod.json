@@ -12,10 +12,10 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "com.ataberkCelil.autosign.client"
+      "com.example.autosign.AutoSignClient"
     ],
     "modmenu": [
-      "com.ataberkCelil.autosign.modmenu"
+      "com.example.autosign.ModMenuIntegration"
     ]
   },
   "mixins": [
